@@ -1,4 +1,4 @@
-from union_fsspec import *  # noqa
+from union_fsspec import *
 
 
 def test_all():
